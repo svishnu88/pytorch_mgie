@@ -3,7 +3,7 @@
 
 # [ICLR'24] Guiding Instruction-based Image Editing via Multimodal Large Language Models
 
-This repo contains the Gradio demo of [MGIE](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf)
+A **Gradio demo** of [MGIE](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf)
 
 [Paper](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf) | [Project](https://mllm-ie.github.io) | [Demo](http://128.111.41.13:7122)
 
