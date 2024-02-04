@@ -1,5 +1,15 @@
-# Guiding Instruction-based Image Editing via Multimodal Large Language Models
 
-The code will be released soon after the internal review.
+## 🔥 Apple's official repo is open-sourced at [ml-mgie](https://github.com/apple/ml-mgie)
 
-<img src='./mgie.png' width='70%' />
+# [ICLR'24] Guiding Instruction-based Image Editing via Multimodal Large Language Models
+
+A **PyTorch** implementation of [MGIE](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf)
+
+[Paper](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf) | [Project](https://mllm-ie.github.io) | [Demo](http://128.111.41.13:7122)
+
+## Demo
+Follow [Requirements](https://github.com/apple/ml-mgie?tab=readme-ov-file#requirements) to build env and put [app.py]() under ml-mgie <br>
+Put official [LLaVA-7B](https://drive.google.com/uc?id=1f_zD8UWRNsPV5ztrCmhxEC4o3cD0_zn7) in [_ckpt/LLaVA-7B-v1](_ckpt) and download pre-trained [ckpt](https://docs-assets.developer.apple.com/ml-research/models/mgie/mgie_7b.tar.gz) (on IPr2Pr + MagicBrush) in [_ckpt/mgie_7b](_ckpt)
+```
+gradio app.py
+```
