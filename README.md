@@ -7,7 +7,7 @@ A **Gradio demo** of [MGIE](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf)
 
 [Paper](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf) | [Project](https://mllm-ie.github.io) | [Demo](http://128.111.41.13:7122)
 
-<img src='./_imgs/demo.gif' width='25%' />
+<img src='./_imgs/gradio.gif' width='25%' />
 
 ## Gradio Demo
 Follow [Requirements](https://github.com/apple/ml-mgie?tab=readme-ov-file#requirements) to build env and put [app.py](https://github.com/tsujuifu/pytorch_mgie/blob/main/app.py) in ml-mgie
