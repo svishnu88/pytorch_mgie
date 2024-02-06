@@ -5,7 +5,7 @@
 
 A **Gradio demo** of [MGIE](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf)
 
-[Paper](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf) | [Project](https://mllm-ie.github.io) | [Demo](http://128.111.41.13:7122)
+[Paper](https://tsujuifu.github.io/pubs/arxiv_mgie.pdf) | [Project](https://mllm-ie.github.io) | [Demo 1](http://128.111.41.13:7122) | [Demo 2](https://huggingface.co/spaces/tsujuifu/ml-mgie)
 
 <img src='./_imgs/gradio.gif' width='25%' />
 
